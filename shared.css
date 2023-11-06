@@ -1,0 +1,23 @@
+html {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Quicksand', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+#page-logo a {
+  padding: 10px;
+  font-family: 'Oleo Script', sans-serif;
+  color: rgb(230, 179, 14);
+  font-size: 45px;
+  /* text-transform: uppercase; */
+  /* letter-spacing: 1px; */
+  text-shadow: 1px 1px 2px rgb(0, 0, 0);
+}
